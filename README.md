@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Portgas97
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Master’s Degree in Cybersecurity
+- 🌱 I’m currently attending a Master’s Degree in Cybersecurity
+- 👾 I'm also following the Cybersecurity Architect course in the Cyber & Security Academy of Leonardo SpA
 - 📫 How to reach me fraventu97@hotmail.it
 
 <!---
