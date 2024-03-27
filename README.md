@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Portgas97
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently attending a Master’s Degree in Cybersecurity
-- 👾 I'm also following the Cybersecurity Architect course in the Cyber & Security Academy of Leonardo SpA
+- 🌱 I’m currently writing my Master’s Degree Thesis in Cybersecurity (@AVL List GmbH, in Automotive Penetration Testing)
+- 👾 I'm a @Leonardo SpA Academy certified Cybersecurity Architect
 - 📫 How to reach me fraventu97@hotmail.it
 
 <!---
